@@ -25,7 +25,7 @@
   <li>Курсовая 3 часть</li> Решить задачи, связанные с визуализацией результатов анализа данных
 </ol>
 <p>Как решала(-а):
-> <a href="https://drive.google.com/drive/folders/178kYf20GEw0a2Q_c3jLl7fXIJjJKm34M">Ссылка на проект</a>
+> <a href="https://drive.google.com/drive/folders/1WfmhNeH_Y_nPwdDgJylvQIezQ5GxL61R">Ссылка на проект</a>
 
 <p> Проект 3: Когортный анализ онлайн-кинотеатра с помощью SQL</p>
 <p>Что нужно было сделать:<p>
